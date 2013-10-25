@@ -22,7 +22,8 @@
                  [:p {:class "footer"} 
                     "Horkou jehlou ušil "
                     (link-to "https://twitter.com/dkvasnickajr" "@dkvasnickajr")
-                    " v programovacím jazyce Clojure | Používá OpenData API ze serveru Volby.cz"]])))
+                    " v programovacím jazyce Clojure | Používá OpenData API z Volby.cz | Zdrojáky jsou "
+                    (link-to "https://github.com/dkvasnicka/svobodni" "na GitHubu")]])))
            
   (route/resources "/")
   (route/not-found "Not Found"))
