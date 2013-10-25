@@ -1,0 +1,16 @@
+body {
+    padding: 200px;
+    text-align: center;
+    font-family: asap, sans-serif;
+    color: rgb(0, 102, 78);    
+}    
+
+a {
+    color: rgb(0, 102, 78);
+}    
+
+.footer {
+    margin-top: 100px;
+    color: #ababab;
+    font-size: small;
+}    
