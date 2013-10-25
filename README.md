@@ -1,19 +1,10 @@
-# svobodni
+# Jsou Svobodní v parlamentu?
 
-FIXME
+Aplikace vytvořená u příležitosti parlamentních voleb v ČR na podzim 2013.
+Na základě dat z Volby.cz zobrazuje průběžné výsledky voleb pro Stranu svobodných občanů ([svobodni.cz][1]).
 
-## Prerequisites
+[http://svobodni-dk.rhcloud.com][2]
 
-You will need [Leiningen][1] 1.7.0 or above installed.
 
-[1]: https://github.com/technomancy/leiningen
-
-## Running
-
-To start a web server for the application, run:
-
-    lein ring server
-
-## License
-
-Copyright © 2013 FIXME
+  [1]: http://svobodni.cz
+  [2]: http://svobodni-dk.rhcloud.com
