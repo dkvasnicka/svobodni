@@ -1,3 +1,5 @@
+**K této politické straně nemám již kladný vztah a není v mém zájmu ji nijak propagovat. Přesto zde tento projekt nechávám, z technických a historických důvodů**
+
 # Jsou Svobodní v parlamentu?
 
 Aplikace vytvořená u příležitosti parlamentních voleb v ČR na podzim 2013.
